@@ -1,0 +1,58 @@
+$font-sizes: (
+  giga 3,
+  mega 2.75rem,
+  kilo 2.3rem,
+  milli 1.4rem,
+  micro 1.2rem,
+  nano .8rem,
+);
+
+$font-weights: (
+  heavy 800,
+  bold 700,
+  semibold 600,
+  medium 500,
+  regular 400,
+  light 300,
+  thin 200
+);
+
+@each $item in $font-sizes{
+  $name: nth($item, 1);
+  $value: nth($item, 2);
+
+  .is__text--size--#{$name}{
+    font-size: #{$value}rem;
+  }
+}
+
+@each $item in $font-weights{
+  $name: nth($item, 1);
+  $value: nth($item, 2);
+
+  .is__text--#{$name}{
+    font-size: #{$value}rem;
+  }
+}
+
+.is__text--oblique{
+  font-style: oblique;
+  font-style: italic;
+}
+.is__text--center{
+  text-align: center;
+}
+
+.is__text--left{
+  text-align: left;
+}
+
+.is__text--right{
+  text-align: right;
+}
+
+.is__text--uppercase{
+  text-transform: uppercase;
+}
+
+

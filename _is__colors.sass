@@ -1,0 +1,13 @@
+@each $color in $color-list
+  $colorname: nth($color, 1)
+  $rgbvalue: nth($color, 2)
+
+  .is__text--#{$colorname}
+    color: unquote($rgbvalue)
+
+
+  .is__background--#{$colorname}
+    background: unquote($rgbvalue)
+
+  .is__border--#{$colorname}
+    border-color: unquote($rgbvalue)

@@ -1,0 +1,1158 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"output",
+				"output_style"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"pull",
+				"pulledConent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"mve",
+				"File: Move"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"lint",
+				"SublimeLint: Next Error"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"dupil",
+				"File: Duplicate"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"conver",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"h",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"haml",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"angul",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"han",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ham",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"syntaxsass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/scss/fonts.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/partials/footer.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/sass.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/.htaccess",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/.gitignore",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/fieldsets/ribbon-cta.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/gh-pages.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/copy.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/components/_site-logo.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/plugins/traffic-light.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/helpers/_deprecated-webkit-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/environments/dev.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/.htaccess-build",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/components/_button.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/ui/_home.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/templates/home.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/stylesheets/refills/_sidebar-layout.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/layouts/layout.erb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/clean.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/_colors.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/ui/_staff.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/3-your-staff/page.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/scss/vendor/picker/default.date.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/components/_pill.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/page.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/templates/staff.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/_type--appearance.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/_type--sizing.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/stylesheets/bourbon/css3/_box-sizing.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_box-sizing.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/addons/_size.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/is/_is__text.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/is/_is__this.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/ipt.sublime-project",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_inline-block.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/bundles/location/location.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/LICENSE",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/1-your-therapy/page.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/ui/_therapy.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/templates/therapy.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/404.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/translations/en.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/neat/spec/neat/container_spec.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/1-your-therapy/_contact.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/concurrent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/partials/header.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/css/arrange.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/scss/responsive.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/partials/browserSync.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/theme.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/fieldsets/staff.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_master-detail.html.erb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/middleman.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/style.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/templates/page.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/templates/error.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/settings.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/environments/staging.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/features/support/env.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_switch-toggle.html.erb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/Gruntfile.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/layouts/default.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/neat/spec/neat/row_spec.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/browserSync.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/addons/_timing-functions.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/addons/_font-family.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/autoprefixer.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_appearance.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/scss/grid.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/concat.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/rename.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/add-ons/readme.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/fieldsets/ribbon.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/.htaccess",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/bundles/member/fields.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_item-list.html.erb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_background-image.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/4-blog/2013-11-29-the-great-wilderness.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_linear-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/.editorconfig",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/templates/entries.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/stylesheets/bourbon/_bourbon-deprecated-upcoming.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/bundles/protect/protect.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/dashboard.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/config.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/index.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/3-your-staff/folder.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/fieldsets/page.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/4-blog/_2013-04-11-a-hidden-page.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/.gitignore",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/4-blog/__2012-11-15-if-youre-reading-this.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/settings.yaml.sample",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/routes.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_config/hooks.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/_grid.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/neat/test/outer-container.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/open.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/index.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/stylesheets/bitters/_forms.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/ui/_general.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_hidpi-media-query.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_image-rendering.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/_bourbon-deprecated-upcoming.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/functions/_tint-shade.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/js/vendor/markitup.set.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/css3/_user-select.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/helpers/_shape-size-stripper.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/js/ascent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_content/4-blog/fields.yaml",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/start.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/addons/_hide-text.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/exec.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/app/assets/stylesheets/functions/_px-to-em.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/lib/bourbon/generator.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/bourbon/Gemfile",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/stylesheets/bitters/_grid-settings.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/ui/_footer.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/components/_panel.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_info-section.html.erb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/templates/security.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/denali/templates/home.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/css/ipt.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/css/style.css.map",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/_fonts.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/package.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_button-group.html.erb",
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/neat/test/_setup.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"staff",
+			"1",
+			"- ",
+			"giga",
+			"p",
+			".section--pad\n  padding: 2rem 0",
+			"pill\"",
+			"pill",
+			"h2",
+			"\";",
+			"@i",
+			"@impor",
+			"@imp",
+			";",
+			"/p",
+			"p class=\"pill__text\"",
+			"<p class=\"pill__text\"",
+			"<p class=\"pill__text\">",
+			"</a>",
+			"<a classhref=\"\">",
+			"<a h",
+			"a",
+			"+media",
+			"fa fa-envelope",
+			"image\">",
+			"box",
+			"<div class=\"button--cta\">CTA</div>",
+			"l-te",
+			" ",
+			"div",
+			")",
+			"g-",
+			"-",
+			"reen",
+			"_theme",
+			"div",
+			"resources/",
+			"\n",
+			"contrib-",
+			"shell",
+			"prompts",
+			"templates",
+			"z",
+			"promots",
+			"authorName",
+			"_bower",
+			"_config",
+			"content",
+			"add-ons",
+			".is",
+			".",
+			"font",
+			"weigh",
+			"font-size",
+			"heavy",
+			"nano",
+			"micro",
+			"milli",
+			"kilo",
+			"mega",
+			"giga",
+			".",
+			"ght:",
+			"export",
+			"log",
+			"status",
+			"bundle",
+			"alias",
+			"Regular",
+			"regular",
+			"background--green-light",
+			".section.is-background__green",
+			"rgbvalue",
+			"$name",
+			"breakpoint",
+			".Grid",
+			"g",
+			"G",
+			"{\n",
+			"grid__item",
+			"  ",
+			"grid__item",
+			"    ",
+			"<!--\n\n    -->",
+			"\n       ",
+			"false",
+			"true",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"\n        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"rem",
+			"px",
+			"i18n",
+			"multi_json",
+			"blockquote",
+			"\n				",
+			"// ",
+			"small-4",
+			"row",
+			"  ",
+			"    ",
+			"   ",
+			"  ",
+			"	",
+			"h1",
+			"link",
+			"%a",
+			"      %",
+			"%a",
+			"%a{:",
+			"onts/rondo/",
+			"{$",
+			"theController",
+			"a",
+			"2",
+			"mall-2 ",
+			"animate-top-level",
+			"animate",
+			"view",
+			"angular"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"project": "is.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fonts",
+				"_themes/ipt/dev/sass/base/_fonts.sass"
+			],
+			[
+				"settings",
+				"_config/settings.yaml"
+			],
+			[
+				"ipt",
+				"ipt/ipt.sublime-project"
+			],
+			[
+				"htac",
+				"ipt/.htaccess"
+			],
+			[
+				"copy",
+				"ipt/grunt-tasks/options/copy.js"
+			],
+			[
+				"giti",
+				"ipt/.gitignore"
+			],
+			[
+				"git",
+				"ipt/.gitignore"
+			],
+			[
+				"ghpa",
+				"ipt/grunt-tasks/options/gh-pages.js"
+			],
+			[
+				"homes",
+				"_themes/ipt/dev/sass/ui/_home.sass"
+			],
+			[
+				"colors",
+				"_themes/ipt/dev/sass/base/_colors.scss"
+			],
+			[
+				"home.htm",
+				"_themes/ipt/templates/home.html"
+			],
+			[
+				"footersas",
+				"_themes/ipt/dev/sass/ui/_footer.sass"
+			],
+			[
+				"staff",
+				"_themes/ipt/templates/staff.html"
+			],
+			[
+				"typesas",
+				"_themes/ipt/dev/sass/base/_type--appearance.sass"
+			],
+			[
+				"sizing",
+				"_themes/ipt/dev/sass/base/_type--sizing.sass"
+			],
+			[
+				"istext",
+				"_themes/ipt/dev/sass/base/is/_is__text.sass"
+			],
+			[
+				"typeappear",
+				"_themes/ipt/dev/sass/base/_type--appearance.sass"
+			],
+			[
+				"staffsas",
+				"_themes/ipt/dev/sass/ui/_staff.sass"
+			],
+			[
+				"staffmd",
+				"_content/3-your-staff/page.md"
+			],
+			[
+				"staffsass",
+				"_themes/ipt/dev/sass/ui/_staff.sass"
+			],
+			[
+				"footer",
+				"_themes/ipt/partials/footer.html"
+			],
+			[
+				"content",
+				"_content/page.md"
+			],
+			[
+				"therapysass",
+				"_themes/ipt/dev/sass/ui/_therapy.sass"
+			],
+			[
+				"staffhtml",
+				"_themes/ipt/templates/staff.html"
+			],
+			[
+				"therapymd",
+				"_content/1-your-therapy/page.md"
+			],
+			[
+				"thera",
+				"_themes/ipt/templates/therapy.html"
+			],
+			[
+				"therapy",
+				"_content/1-your-therapy/page.md"
+			],
+			[
+				"homesass",
+				"_themes/ipt/dev/sass/ui/_home.sass"
+			],
+			[
+				"home",
+				"_themes/ipt/templates/home.html"
+			],
+			[
+				"pagemd",
+				"_content/page.md"
+			],
+			[
+				"stylesass",
+				"_themes/ipt/dev/sass/style.sass"
+			],
+			[
+				"home.sass",
+				"_themes/ipt/dev/sass/ui/_home.sass"
+			],
+			[
+				"staff.htm",
+				"_themes/ipt/templates/staff.html"
+			],
+			[
+				"page.html",
+				"_themes/ipt/templates/page.html"
+			],
+			[
+				"dev",
+				"_config/environments/dev.yaml"
+			],
+			[
+				"browser",
+				"_themes/ipt/partials/browserSync.html"
+			],
+			[
+				"staffpage",
+				"_content/3-your-staff/page.md"
+			],
+			[
+				"gruntfi",
+				"ipt/Gruntfile.js"
+			],
+			[
+				"grunt",
+				"ipt/Gruntfile.js"
+			],
+			[
+				"concurre",
+				"ipt/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"rename",
+				"ipt/grunt-tasks/options/rename.js"
+			],
+			[
+				"hta",
+				"ipt/admin/.htaccess"
+			],
+			[
+				"page.md",
+				"_content/3-your-staff/page.md"
+			],
+			[
+				".htacc",
+				"ipt/.htaccess"
+			],
+			[
+				"ettings",
+				"_config/settings.yaml"
+			],
+			[
+				"browsesync",
+				"_themes/ipt/partials/browserSync.html"
+			],
+			[
+				"gh",
+				"ipt/grunt-tasks/options/gh-pages.js"
+			],
+			[
+				"gitignore",
+				"ipt/bower_components/refills/.gitignore"
+			],
+			[
+				"gruntfile",
+				"ipt/Gruntfile.js"
+			],
+			[
+				"heaer",
+				"_themes/ipt/partials/header.html"
+			],
+			[
+				"page",
+				"_content/page.md"
+			],
+			[
+				"gridsass",
+				"_themes/ipt/dev/sass/base/_grid.sass"
+			],
+			[
+				"type-sizi",
+				"_themes/ipt/dev/sass/base/_type--sizing.sass"
+			],
+			[
+				"header",
+				"_themes/ipt/partials/header.html"
+			],
+			[
+				"pageya",
+				"_config/fieldsets/page.yaml"
+			],
+			[
+				"staffpagemd",
+				"_content/3-your-staff/page.md"
+			],
+			[
+				"staff.html",
+				"_themes/ipt/templates/staff.html"
+			],
+			[
+				"page.yam",
+				"_config/fieldsets/page.yaml"
+			],
+			[
+				"yourstaff",
+				"_content/3-your-staff/page.md"
+			],
+			[
+				"typesi",
+				"_themes/ipt/dev/sass/base/_type--sizing.sass"
+			],
+			[
+				"general",
+				"_themes/ipt/dev/sass/ui/_general.sass"
+			],
+			[
+				"genera",
+				"_themes/ipt/dev/sass/ui/_general.sass"
+			],
+			[
+				"generalsas",
+				"_themes/ipt/dev/sass/ui/_general.sass"
+			],
+			[
+				"pill",
+				"_themes/ipt/dev/sass/components/_pill.sass"
+			],
+			[
+				"footersass",
+				"_themes/ipt/dev/sass/ui/_footer.sass"
+			],
+			[
+				"foot",
+				"_themes/ipt/partials/footer.html"
+			],
+			[
+				"button",
+				"_themes/ipt/dev/sass/components/_button.sass"
+			],
+			[
+				"panel",
+				"_themes/ipt/dev/sass/components/_panel.sass"
+			],
+			[
+				"grid.sass",
+				"_themes/ipt/dev/sass/base/_grid.sass"
+			],
+			[
+				"grid",
+				"ipt/admin/themes/ascent/scss/grid.scss"
+			],
+			[
+				"home.",
+				"_themes/ipt/templates/home.html"
+			],
+			[
+				"style.css",
+				"_themes/ipt/css/style.css.map"
+			],
+			[
+				"homesas",
+				"_themes/ipt/dev/sass/ui/_home.sass"
+			],
+			[
+				"base/fonts",
+				"_themes/ipt/dev/sass/base/_fonts.sass"
+			],
+			[
+				"package",
+				"ipt/package.json"
+			],
+			[
+				"sass",
+				"ipt/grunt-tasks/options/sass.js"
+			],
+			[
+				"concurrent",
+				"ipt/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"default",
+				"_themes/ipt/layouts/default.html"
+			],
+			[
+				"concur",
+				"ipt/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"bower",
+				"ipt/bower.json"
+			],
+			[
+				"watch",
+				"ipt/grunt-tasks/options/watch.js"
+			],
+			[
+				"typea",
+				"_themes/ipt/dev/sass/base/_type--appearance.sass"
+			],
+			[
+				"nav.ass",
+				"_themes/ipt/dev/sass/components/_nav.sass"
+			],
+			[
+				"buttonsass",
+				"_themes/ipt/dev/sass/components/_button.sass"
+			],
+			[
+				"ui/general",
+				"_themes/ipt/dev/sass/ui/_general.sass"
+			],
+			[
+				"butto",
+				"_themes/ipt/dev/sass/components/_button.sass"
+			],
+			[
+				"isthis",
+				"_themes/ipt/dev/sass/base/is/_is__this.sass"
+			],
+			[
+				"navsass",
+				"_themes/ipt/dev/sass/components/_nav.sass"
+			],
+			[
+				"default.htm",
+				"_themes/ipt/layouts/default.html"
+			],
+			[
+				"cta",
+				"_config/fieldsets/ribbon-cta.yaml"
+			],
+			[
+				"home.html",
+				"_themes/ipt/templates/home.html"
+			],
+			[
+				"hom.e",
+				"_themes/ipt/templates/home.html"
+			],
+			[
+				"page.",
+				"_content/page.md"
+			],
+			[
+				"page.m",
+				"_content/page.md"
+			],
+			[
+				"ribb",
+				"_config/fieldsets/ribbon.yaml"
+			],
+			[
+				"home.md",
+				"_content/3-your-staff/1-techniques/2-where-to-find-mountain-goose.md"
+			],
+			[
+				"defua",
+				"_themes/acadia/layouts/default.html"
+			],
+			[
+				"appear",
+				"ipt/bower_components/bourbon/app/assets/stylesheets/css3/_appearance.scss"
+			],
+			[
+				"sitelogo",
+				"_themes/ipt/dev/sass/components/_site-logo.sass"
+			],
+			[
+				"style",
+				"_themes/ipt/dev/sass/style.sass"
+			],
+			[
+				"type",
+				"_themes/ipt/dev/sass/base/_type--sizing.sass"
+			],
+			[
+				"type-si",
+				"_themes/ipt/dev/sass/base/_type--sizing.sass"
+			],
+			[
+				"base/type",
+				"_themes/ipt/dev/sass/base/_type--appearance.sass"
+			],
+			[
+				"appearance",
+				"ipt/bower_components/bourbon/app/assets/stylesheets/css3/_appearance.scss"
+			],
+			[
+				"auto",
+				"ipt/grunt-tasks/options/autoprefixer.js"
+			],
+			[
+				"stylesa",
+				"_themes/ipt/dev/sass/style.sass"
+			],
+			[
+				"aut",
+				"ipt/grunt-tasks/options/autoprefixer.js"
+			],
+			[
+				"concat",
+				"ipt/grunt-tasks/options/concat.js"
+			],
+			[
+				"open",
+				"ipt/grunt-tasks/options/open.js"
+			],
+			[
+				"watchs",
+				"ipt/grunt-tasks/options/watch.js"
+			],
+			[
+				"conf",
+				"app/templates/grunt-tasks/config.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"index",
+				"app/index.js"
+			],
+			[
+				"inde",
+				"app/index.js"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"indexj",
+				"app/index.js"
+			],
+			[
+				"iter",
+				"_app/vendor/Symfony/Component/Finder/Iterator/FilterIterator.php"
+			],
+			[
+				"hacks",
+				".oh-my-zsh/custom/plugins/hacks/hacks.plugin.zsh"
+			],
+			[
+				"hack",
+				".oh-my-zsh/custom/plugins/hacks/hacks.plugin.zsh"
+			],
+			[
+				"weblog",
+				".oh-my-zsh/custom/plugins/weblogins/weblogins.plugin.zsh"
+			],
+			[
+				"",
+				"user/.zshrc"
+			],
+			[
+				"zshrc",
+				"user/.zshrc"
+			],
+			[
+				"agnoster",
+				"user/.oh-my-zsh/themes/myagnoster.zsh-theme"
+			],
+			[
+				"myagnoster",
+				"user/.oh-my-zsh/themes/agnoster.zsh-theme"
+			],
+			[
+				"o",
+				".oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"ohmys",
+				".oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"copydir",
+				".oh-my-zsh/plugins/copydir/copydir.plugin.zsh"
+			],
+			[
+				"compleat",
+				".oh-my-zsh/plugins/compleat/compleat.plugin.zsh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"optica",
+				"~/Dropbox/Web/clients/gatorworks/opticalshoppe/opticalshoppe.sublime-project"
+			],
+			[
+				"fe-new",
+				"~/Dropbox/Web/clients/fe-new/fe-new.sublime-workspace"
+			],
+			[
+				"dotfiles",
+				"~/dotfiles.sublime-project"
+			],
+			[
+				"tiger",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-tigershredding.sublime-project"
+			],
+			[
+				"",
+				"~/Dropbox/Web/clients/gatorworks/opticalshoppe/opticalshoppe.sublime-project"
+			],
+			[
+				"optical",
+				"~/Dropbox/Web/clients/gatorworks/opticalshoppe/opticalshoppe.sublime-project"
+			],
+			[
+				"fe",
+				"~/Dropbox/Web/clients/fe-new/fe.sublime-project"
+			],
+			[
+				"whiteb",
+				"~/Dropbox/Web/clients/whiteboard/whiteboard.sublime-project"
+			],
+			[
+				"seth",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"learn",
+				"~/Dropbox/Web/clients/learnnow/learnnow.sublime-project"
+			],
+			[
+				"lea",
+				"~/My Stuff/learnnow/learnnow.sublime-workspace"
+			],
+			[
+				"s",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"se",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"sjg",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-project"
+			],
+			[
+				"f",
+				"~/Dropbox/Web/fe/fe.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
