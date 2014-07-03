@@ -2,12 +2,14 @@
   $colorname: nth($color, 1)
   $rgbvalue: nth($color, 2)
 
-  .is__text--#{$colorname}
+  .is__text--c-#{$colorname}
     color: unquote($rgbvalue)
 
 
-  .is__background--#{$colorname}
+  .is__background--c-#{$colorname},
+  .is__bg--c-#{$colorname}
     background: unquote($rgbvalue)
 
-  .is__border--#{$colorname}
+  .is__border--c-#{$colorname},
+  .is__bdr--c-#{$colorname}
     border-color: unquote($rgbvalue)
