@@ -1,30 +1,72 @@
-$border-radius: .3rem
-$border-width: .1rem
-$border-width-l: .3rem
-$border-width-xl: .5rem
+///////////////////
+//BORDER-STYLE:
+//BORDER-WIDTH:
+///////////////////
 
-.is__this--bordered
-  border-width: .1rem
+.is__this--bordered,
+.is__bdr
+  border-width: $border-width-m
   border-style: solid
 
-.is__this--bordered-b
-  border-bottom-width: .1rem
-  border-bottom-style: solid
+  &-b
+    border-bottom-width: $border-width-m
+    border-bottom-style: solid
 
-.is__this--floating--left
+  &-t
+    border-top-width: $border-width-m
+    border-top-style: solid
+
+  &-l
+    border-left-width: $border-width-m
+    border-left-style: solid
+
+  &-r
+    border-right-width: $border-width-m
+    border-right-style: solid
+
+///////////////////
+//BORDER-RADIUS:
+///////////////////
+
+.is__this--border-radius,
+.is__br
+  border-radius: $border-radius-m
+
+  &--thick
+    border-radius: $border-radius-l
+
+  &--thin
+    border-radius: $border-radius-s
+
+
+
+///////////////////
+//FlOAT:
+///////////////////
+
+.is__this--floating--left,
+.is__fl
   float: left
 
-.is__this--border-radius
-  border-radius: 1rem
-
-.is__this--floating--right
+.is__this--floating--right,
+.is__fr
   float: right
 
-.is__this--centered
+.is__this--centered,
+.is__ctr
   margin: auto
 
-.is__this--inline
-  display: inline-block
 
-.is__this--border-radius
-  border-radius: $border-radius
+///////////////////
+//DISPLAY:
+///////////////////
+
+.is__this--display
+  &--block
+    display: block
+  &--inline
+    display: inline-block
+  &--flex
+    display: flex
+  &--hidden
+    display: none

@@ -17,6 +17,7 @@ $font-weights: (
   thin 200
 );
 
+//explodes font-sizes
 @each $item in $font-sizes{
   $name: nth($item, 1);
   $value: nth($item, 2);
@@ -26,6 +27,7 @@ $font-weights: (
   }
 }
 
+//explodes font-weights
 @each $item in $font-weights{
   $name: nth($item, 1);
   $value: nth($item, 2);

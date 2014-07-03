@@ -1,0 +1,46 @@
+///////////////////
+//COLOR:
+//BORDER-COLOR:
+//BACKGROUND:
+///////////////////
+
+$color-list:    (
+  main hsl(45, 94%, 94%),
+  maindk hsl(44, 96%, 90%),
+  green hsl(144, 100%, 39%),
+  yellow hsl(56, 100%, 78%),
+  yellowdk hsl(53, 94%, 54%),
+  orange hsl(24, 100%, 58%),
+  red hsl(0, 74%, 54%),
+  blue hsl(202, 82%, 76%),
+  bluedk hsl(200, 100%, 42%),
+  blueshaded hsl(200, 96%, 35%),
+  black hsla(0, 0%, 0%, .6),
+  blacker hsl(0, 0%, 22%),
+  blackest hsl(0, 0%, 11%),
+  white hsl(0, 0%, 100%),
+  shade hsla(0, 0%, 7%, 0.18),
+  twitter hsl(197, 80%, 71%),
+  facebook hsl(217, 45%, 53%),
+  linkedin hsl(204, 72%, 45%),
+  pinterest hsl(358, 73%, 46%),
+  instagram hsl(17, 34%, 45%)
+);
+
+
+///////////////////
+//BORDER-WIDTH:
+//BORDER-STYLE:
+///////////////////
+$border-width-m: .1rem;
+$border-width-l: .3rem;
+$border-width-xl: .5rem;
+
+///////////////////
+//BORDER-RADIUS:
+///////////////////
+
+$border-radius-s: .1rem;
+$border-radius-m: .4rem;
+$border-radius-l: .8rem;
+
