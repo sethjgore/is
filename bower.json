@@ -1,0 +1,23 @@
+{
+  "name": "is",
+  "version": "0.0.2",
+  "homepage": "https://github.com/sethjgore/is",
+  "authors": [
+    "sethjgore <sethjgore@gmail.com>"
+  ],
+  "description": "@sethjgore_ basic helper",
+  "main": "_is.sass",
+  "keywords": [
+    "sass",
+    "is"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
