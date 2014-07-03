@@ -27,9 +27,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 400.0,
+		"height": 273.0,
 		"selected_items":
 		[
+			[
+				"rename",
+				"File: Rename"
+			],
 			[
 				"save",
 				"Project: Save As"
@@ -37,10 +41,6 @@
 			[
 				"dup",
 				"File: Duplicate"
-			],
-			[
-				"rename",
-				"File: Rename"
 			],
 			[
 				"install",
@@ -183,7 +183,7 @@
 				"Set Syntax: Sass"
 			]
 		],
-		"width": 601.0
+		"width": 440.0
 	},
 	"console":
 	{
@@ -203,6 +203,14 @@
 	},
 	"file_history":
 	[
+		"/Users/user/Dropbox/Web/Labs/is/_is__this.sass",
+		"/Users/user/Dropbox/Web/Labs/is/_is__list.sass",
+		"/Users/user/Dropbox/Web/Labs/is/_is__colors.sass",
+		"/Users/user/Dropbox/Web/Labs/is/_is__switchknife.scss",
+		"/Users/user/Dropbox/Web/Labs/is/_is.sass",
+		"/Users/user/Dropbox/Web/Labs/is/_is__text.scss",
+		"/Users/user/Dropbox/Web/Labs/is/_is_switchknife.scss",
+		"/Users/user/Dropbox/Web/Labs/is/is.sublime-project",
 		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/scss/fonts.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/partials/footer.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/ipt/grunt-tasks/options/sass.js",
@@ -322,19 +330,11 @@
 		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/stylesheets/bitters/_grid-settings.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/ui/_footer.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/components/_panel.sass",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_info-section.html.erb",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/admin/themes/ascent/templates/security.php",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/denali/templates/home.html",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/css/ipt.css",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/css/style.css.map",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/_themes/ipt/dev/sass/base/_fonts.sass",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/package.json",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_button-group.html.erb",
-		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/neat/test/_setup.scss"
+		"/Users/user/Dropbox/Web/clients/hatchit/ipt/bower_components/refills/source/_info-section.html.erb"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -348,6 +348,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"heavy ",
+			"heavy 00,",
 			"div",
 			"staff",
 			"1",
@@ -473,9 +475,7 @@
 			"2",
 			"mall-2 ",
 			"animate-top-level",
-			"animate",
-			"view",
-			"angular"
+			"animate"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -492,6 +492,11 @@
 	},
 	"groups":
 	[
+		{
+			"sheets":
+			[
+			]
+		},
 		{
 			"sheets":
 			[
@@ -515,11 +520,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -552,6 +564,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"witch",
+				"_is__switchknife.scss"
+			],
+			[
+				"istext",
+				"_is__text.scss"
+			],
+			[
+				"isass",
+				"_is.sass"
+			],
 			[
 				"fonts",
 				"_themes/ipt/dev/sass/base/_fonts.sass"
@@ -611,10 +635,6 @@
 			[
 				"sizing",
 				"_themes/ipt/dev/sass/base/_type--sizing.sass"
-			],
-			[
-				"istext",
-				"_themes/ipt/dev/sass/base/is/_is__text.sass"
 			],
 			[
 				"typeappear",
@@ -1055,14 +1075,6 @@
 			[
 				"ohmys",
 				".oh-my-zsh/oh-my-zsh.sh"
-			],
-			[
-				"copydir",
-				".oh-my-zsh/plugins/copydir/copydir.plugin.zsh"
-			],
-			[
-				"compleat",
-				".oh-my-zsh/plugins/compleat/compleat.plugin.zsh"
 			]
 		],
 		"width": 0.0
@@ -1149,7 +1161,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 175.0,
 	"status_bar_visible": true,
 	"template_settings":
