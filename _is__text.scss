@@ -23,7 +23,7 @@ $font-weights: (
   $value: nth($item, 2);
 
   .is__text--size--#{$name}{
-    font-size: #{$value}rem;
+    font-size: #{$value};
   }
 }
 
@@ -33,7 +33,7 @@ $font-weights: (
   $value: nth($item, 2);
 
   .is__text--#{$name}{
-    font-size: #{$value}rem;
+    font-weight: #{$value};
   }
 }
 
