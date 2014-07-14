@@ -37,13 +37,14 @@ $font-weights: (
 ///////////////////
 
 //explodes VW font-sizes
-@for $i from 1 through 20
-  .is__text--size--#{$n}vw
-    font-size: #{$n}vw
-
-  .is__text--size--#{$n}vh
-    font-size: #{$n}vh
-
+@for $i from 1 through 20{
+  .is__text--size--#{$i}vw{
+    font-size: #{$i}vw
+  }
+  .is__text--size--#{$i}vh{
+    font-size: #{$i}vh
+  }
+}
 ///////////////////
 //FONT-WEIGH:
 ///////////////////
